@@ -1,0 +1,7 @@
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\RunNodeApi.exe
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\RunNodeApi.dll
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\RunNodeApi.deps.json
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\RunNodeApi.runtimeconfig.json
+D:\MyRepository\Core\CallNode\RunNodeApi\obj\Release\netcoreapp3.1\PubTmp\Out\RunNodeApi.pdb
